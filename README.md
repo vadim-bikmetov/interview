@@ -1,5 +1,5 @@
 # DevOps Engineer Interview Questions
-
+![DevOps](https://github.com/vadim-bikmetov/interview/blob/main/images/devops.png)
 ### Темы
 
  - [**Linux**](docs/01. linux.md)
