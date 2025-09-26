@@ -5,12 +5,12 @@
 <details>
   <summary>Q&A</summary>
 
-  - [**Linux**](docs/01.linux.md)
-  - [**Network**](docs/02.network.md)
-  - [**Ansible**](docs/03.ansible.md)
-  - [**Docker**](docs/04.docker.md)
-  - [**K8s**](docs/05.k8s.md)
-  - [**CI/CD**](docs/06.cicd.md)
-  - [**DB**](docs/07.databases.md)
-  - [**Git**](docs/08.git.md)
+  - [**01. Linux**](docs/01.linux.md)
+  - [**02. Network**](docs/02.network.md)
+  - [**03. Ansible**](docs/03.ansible.md)
+  - [**04. Docker**](docs/04.docker.md)
+  - [**05. K8s**](docs/05.k8s.md)
+  - [**06. CI/CD**](docs/06.cicd.md)
+  - [**07. DB**](docs/07.databases.md)
+  - [**08. Git**](docs/08.git.md)
 </details>
