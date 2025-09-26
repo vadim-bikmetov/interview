@@ -1,5 +1,6 @@
 # DevOps Engineer Interview Questions
-<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/devops.png" width="200" alt="DevOps">
+<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/devops.png" width="400" alt="DevOps">
+
 ### Темы
 <details>
   <summary>Q&A</summary>
