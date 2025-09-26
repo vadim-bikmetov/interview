@@ -1,10 +1,10 @@
 # DevOps Engineer Interview Questions
-<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/devops.png" width="400" alt="DevOps">
+<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/devops.png" width="666" alt="DevOps">
 
 ### Темы
 <details>
   <summary>Q&A</summary>
-
+<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/nikita.jpg" width="666" alt="DevOps">
   - [**01. Linux**](docs/01.linux.md)
   - [**02. Network**](docs/02.network.md)
   - [**03. Ansible**](docs/03.ansible.md)
