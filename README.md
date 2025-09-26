@@ -10,4 +10,7 @@
   - [**Ansible**](docs/03.ansible.md)
   - [**Docker**](docs/04.docker.md)
   - [**K8s**](docs/05.k8s.md)
+  - [**CI/CD**](docs/06.cicd.md)
+  - [**DB**](docs/07.databases.md)
+  - [**Git**](docs/08.git.md)
 </details>
