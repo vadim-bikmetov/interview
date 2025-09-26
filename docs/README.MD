@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/bear.jpg" width="500" alt="Bear">
