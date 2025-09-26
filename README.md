@@ -4,7 +4,7 @@
 ### Темы
 <details>
   <summary>Q&A</summary>
-<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/nikita.jpg" width="666" alt="DevOps">
+<img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/nikita.jpg" width="50" alt="DevOps">
 
   - [**01. Linux**](docs/01.linux.md)
   - [**02. Network**](docs/02.network.md)
