@@ -17,3 +17,18 @@
   - [**09. ELK**](docs/09.elk.md)
   - [**10. Helm**](docs/10.helm.md)
 </details>
+
+Видео-собеседования для изучения + для наполнения БЗ
+
+https://www.youtube.com/watch?v=r5sEj9YEeT0&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=4
+https://www.youtube.com/watch?v=oUeOLfwfQOU&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=7
+https://www.youtube.com/watch?v=YFRECVVd-Es&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=8
+https://www.youtube.com/watch?v=ggJfKmA3HwI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=9
+https://www.youtube.com/watch?v=bHK5pGag6hs&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=10
+https://www.youtube.com/watch?v=orp9RLZPWAo&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=13
+https://www.youtube.com/watch?v=beXpUpj19BE&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=14
+https://www.youtube.com/watch?v=AzHURFofjgI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=15
+https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=16
+https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=18
+
+Весь плейлист https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&si=0ZHNKmudge_JpJEd
