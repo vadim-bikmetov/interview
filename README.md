@@ -18,7 +18,7 @@
   - [**10. Helm**](docs/10.helm.md)
 </details>
 
-Видео-собеседования для изучения + для наполнения БЗ
+### Видео-собеседования для изучения + для наполнения БЗ
 
 https://www.youtube.com/watch?v=r5sEj9YEeT0&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=4
 https://www.youtube.com/watch?v=oUeOLfwfQOU&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=7
@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEd
 https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=18
 
 Весь плейлист https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&si=0ZHNKmudge_JpJEd
+
+### Наполнить информацией из
+
+https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc/edit?pli=1&tab=t.0
+https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro/edit?tab=t.0#heading=h.q1v67jje49u9
