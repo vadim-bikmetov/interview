@@ -6,6 +6,7 @@
   <summary>Q&A</summary>
 <img src="https://raw.githubusercontent.com/vadim-bikmetov/interview/main/images/nikita.jpg" width="50" alt="Nikitos">
 
+  - [**00. Bash**](docs/01.bash.md)
   - [**01. Linux**](docs/01.linux.md)
   - [**02. Network**](docs/02.network.md)
   - [**03. Ansible**](docs/03.ansible.md)
