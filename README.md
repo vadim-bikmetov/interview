@@ -5,6 +5,7 @@
 <details>
   <summary>Q&A</summary>
 
+  - [**000. QA**](docs/000.qa.md)
   - [**00. Bash**](docs/00.bash.md)
   - [**01. Linux**](docs/01.linux.md)
   - [**02. Network**](docs/02.network.md)
