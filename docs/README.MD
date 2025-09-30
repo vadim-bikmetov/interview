@@ -4,7 +4,7 @@
 <details>
   <summary>QA</summary>
 
-  - [**00. Linux**](docs/qa/01.linux.md)
-  - [**01. k8s**](docs/qa/02.k8s.md)
+  - [**00. Linux**](qa/01.linux.md)
+  - [**01. k8s**](qa/02.k8s.md)
 
 </details>
