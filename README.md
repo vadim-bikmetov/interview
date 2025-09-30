@@ -3,9 +3,8 @@
 
 ### Темы
 <details>
-  <summary>Q&A</summary>
+  <summary>Список тем</summary>
 
-  - [**000. QA**](docs/000.qa.md)
   - [**00. Bash**](docs/00.bash.md)
   - [**01. Linux**](docs/01.linux.md)
   - [**02. Network**](docs/02.network.md)
@@ -22,14 +21,23 @@
 ### Видео-собеседования для изучения + для наполнения БЗ
 
 https://www.youtube.com/watch?v=r5sEj9YEeT0&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=4
+
 https://www.youtube.com/watch?v=oUeOLfwfQOU&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=7
+
 https://www.youtube.com/watch?v=YFRECVVd-Es&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=8
+
 https://www.youtube.com/watch?v=ggJfKmA3HwI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=9
+
 https://www.youtube.com/watch?v=bHK5pGag6hs&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=10
+
 https://www.youtube.com/watch?v=orp9RLZPWAo&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=13
+
 https://www.youtube.com/watch?v=beXpUpj19BE&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=14
+
 https://www.youtube.com/watch?v=AzHURFofjgI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=15
+
 https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=16
+
 https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=18
 
 Весь плейлист https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&si=0ZHNKmudge_JpJEd
@@ -37,4 +45,5 @@ https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEd
 ### Наполнить информацией из
 
 https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc/edit?pli=1&tab=t.0
+
 https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro/edit?tab=t.0#heading=h.q1v67jje49u9
