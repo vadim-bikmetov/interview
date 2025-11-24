@@ -13,10 +13,10 @@
   - [**05. K8s**](docs/05.k8s.md)
   - [**06. CI/CD**](docs/06.cicd.md)
   - [**07. DB**](docs/07.databases.md)
-  - [**07. PSQL**](docs/08.postgresql.md)
-  - [**08. Git**](docs/09.git.md)
-  - [**09. ELK**](docs/10.elk.md)
-  - [**10. Helm**](docs/11.helm.md)
+  - [**08. PSQL**](docs/08.postgresql.md)
+  - [**09. Git**](docs/09.git.md)
+  - [**10. ELK**](docs/10.elk.md)
+  - [**11. Helm**](docs/11.helm.md)
 </details>
 
 ### Видео-собеседования для изучения + для наполнения БЗ
