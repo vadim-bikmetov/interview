@@ -13,6 +13,7 @@
   - [**05. K8s**](docs/05.k8s.md)
   - [**06. CI/CD**](docs/06.cicd.md)
   - [**07. DB**](docs/07.databases.md)
+  - [**07. PSQL**](docs/07.postgresql.md)
   - [**08. Git**](docs/08.git.md)
   - [**09. ELK**](docs/09.elk.md)
   - [**10. Helm**](docs/10.helm.md)
