@@ -7,5 +7,6 @@
   - [**01. Linux**](qa/01.linux.md)
   - [**02. docker**](qa/02.docker.md)
   - [**03. k8s**](qa/03.k8s.md)
+  - [**04. PostgreSQL**](qa/04.postgresql.md)
 
 </details>
