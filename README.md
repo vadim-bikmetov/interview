@@ -36,5 +36,5 @@
 
 ### Наполнить информацией из
 
-[[interview] DevOps RoadMap](https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc)
-[[interview] Ответы на вопросы](https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro)
+- [[interview] DevOps RoadMap](https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc)
+- [[interview] Ответы на вопросы](https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro)
