@@ -32,7 +32,7 @@
 9. [Видео 9](https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
 10. [Видео 10](https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
 
-📺 **[Смотреть весь плейлист](https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)**
+📺 **[Смотреть весь плейлист](https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)** + **[еще один плейлист](https://www.youtube.com/watch?v=AxCgZ7yUKrU&list=PLg3jCjfdIRRwCIDX4myhueGxNhnXF_HWH)**
 
 ### Наполнить информацией из
 
