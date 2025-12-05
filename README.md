@@ -21,30 +21,20 @@
 
 ### Видео-собеседования для изучения + для наполнения БЗ
 
-https://www.youtube.com/watch?v=r5sEj9YEeT0&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=4
+1. [Видео 1](https://www.youtube.com/watch?v=r5sEj9YEeT0&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+2. [Видео 2](https://www.youtube.com/watch?v=oUeOLfwfQOU&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+3. [Видео 3](https://www.youtube.com/watch?v=YFRECVVd-Es&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+4. [Видео 4](https://www.youtube.com/watch?v=ggJfKmA3HwI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+5. [Видео 5](https://www.youtube.com/watch?v=bHK5pGag6hs&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+6. [Видео 6](https://www.youtube.com/watch?v=orp9RLZPWAo&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+7. [Видео 7](https://www.youtube.com/watch?v=beXpUpj19BE&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+8. [Видео 8](https://www.youtube.com/watch?v=AzHURFofjgI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+9. [Видео 9](https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
+10. [Видео 10](https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)
 
-https://www.youtube.com/watch?v=oUeOLfwfQOU&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=7
-
-https://www.youtube.com/watch?v=YFRECVVd-Es&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=8
-
-https://www.youtube.com/watch?v=ggJfKmA3HwI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=9
-
-https://www.youtube.com/watch?v=bHK5pGag6hs&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=10
-
-https://www.youtube.com/watch?v=orp9RLZPWAo&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=13
-
-https://www.youtube.com/watch?v=beXpUpj19BE&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=14
-
-https://www.youtube.com/watch?v=AzHURFofjgI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=15
-
-https://www.youtube.com/watch?v=dLki-M9dxAI&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=16
-
-https://www.youtube.com/watch?v=TwyhnBDOHPw&list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&index=18
-
-Весь плейлист https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH&si=0ZHNKmudge_JpJEd
+📺 **[Смотреть весь плейлист](https://youtube.com/playlist?list=PLg3jCjfdIRRyo-K6j1NvBXrELjCdEdcoH)**
 
 ### Наполнить информацией из
 
-https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc/edit?pli=1&tab=t.0
-
-https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro/edit?tab=t.0#heading=h.q1v67jje49u9
+[[interview] DevOps RoadMap](https://docs.google.com/document/d/1yGRY5qMsPoWG5rkvWD-SCN6KPvR1eS_xfnFoRfSHmKc)
+[[interview] Ответы на вопросы](https://docs.google.com/document/d/1Kxiv_UIeuTvEgtcfveq5C655duT35hq8-3bCmKcxmro)
